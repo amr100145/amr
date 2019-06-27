@@ -1,0 +1,6 @@
+owner=592452917454176266
+prefix=1
+game=Amr | 1play
+stayinchannel=true
+songinstatus=false
+token=NTkzODk4ODY4NzA2NjM5OTE1.XRUlnw.XV_A1J4mte7LgU5vx4Unuu_gaOQ
